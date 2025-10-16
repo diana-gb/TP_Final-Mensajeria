@@ -1,4 +1,4 @@
-import './Contacto.css'
+
 
 function Contacto (propiedades){
 
