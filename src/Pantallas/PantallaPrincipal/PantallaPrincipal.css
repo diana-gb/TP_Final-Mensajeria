@@ -76,4 +76,11 @@ background-color: #f7f5f3;
     }
 }
 
+@media screen and (max-width: 350px){
+
+    .content-left_content{
+        margin-left: 5px;
+    }
+}
+
 /* -----------Home screen section END---------- */
