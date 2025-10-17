@@ -60,5 +60,12 @@ img{
     object-fit: cover; 
 }
 
+@media (min-width: 1400px){
+
+    .contact-list_contact-container{
+        margin-top: 5px;
+    }
+}
+
 
   /* ----------- contact list section END ---------- */
