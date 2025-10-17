@@ -48,6 +48,15 @@
       overflow-y: scroll;
 }
 
+@media (min-width: 2010px) {
+
+.message-screen_message_container {
+      max-width: 1800px; 
+      margin: 0 auto;
+      padding: 40px;
+}
+}
+
 @media screen and (max-width: 790px){
 
 .message-screen_container-navLateral{
