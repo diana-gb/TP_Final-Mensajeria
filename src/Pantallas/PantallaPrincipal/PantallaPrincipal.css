@@ -48,6 +48,12 @@ width: 100vw;
 background-color: #f7f5f3;
 }
 
+@media (min-width: 1400px){
+    .content-left_content{
+        margin-top: 100px;
+    }
+}
+
 @media screen and (max-width: 730px){
 
     .home-screen_container-right{
